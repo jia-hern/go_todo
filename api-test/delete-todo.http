@@ -1,0 +1,2 @@
+DELETE http://localhost:8080/todos/1
+Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3RAdGVzdC5jb20iLCJleHAiOjE3MDQ5NjkxOTQsInVzZXJJZCI6MX0.dwNu8frp87JbPCXoUOcWD0qzadDYZk-nhPfXbuyqVk0
